@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on more opensource projects 
 - 🤔 I’m looking for help with testing
-- 📫 How to reach me: 
+- 📫 How to reach me: www.linkedin.com/in/lanice-powell/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: love tacos and teaching
 
